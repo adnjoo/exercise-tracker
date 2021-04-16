@@ -23,7 +23,7 @@ export default class CreateExercise extends Component {
     }
 
     componentDidMount() {
-        axios.get('http://pure-ocean-29656.herokuapp.com/users/')
+        axios.get('https://pure-ocean-29656.herokuapp.com/users/')
             .then(response => {
                 if (response.data.length > 0){
                     this.setState({
@@ -70,7 +70,7 @@ export default class CreateExercise extends Component {
 
         console.log(exercise);
 
-        axios.post('http://pure-ocean-29656.herokuapp.com/add', exercise)
+        axios.post('https://pure-ocean-29656.herokuapp.com/add', exercise)
             .then(res => console.log(res.data));
 
 
