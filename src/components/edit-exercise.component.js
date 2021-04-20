@@ -80,14 +80,16 @@ export default class EditExercise extends Component {
             duration: this.state.duration,
             date: this.state.date
         }
-
         console.log(exercise);
 
-        axios.post('https://pure-ocean-29656.herokuapp.com/update/'+this.props.match.params.id, exercise)
-            .then(res => console.log(res.data));
+        axios.post('https://pure-ocean-29656.herokuapp.com/exercises/update/'+this.props.match.params.id, exercise)
 
+            .then(res => {
+                console.log(res.data);
+                window.location = '/';
+                
+            });
 
-        window.location = '/';
     }
 
     render() {
