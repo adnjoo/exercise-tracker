@@ -1,1 +1,1 @@
-[mern crud frontend](https://thawing-crag-17351.herokuapp.com/)
+[mern crud frontend](https://adnjoo.github.io/mernfrontend/)
