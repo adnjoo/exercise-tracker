@@ -6,7 +6,7 @@ Front End - React, Bootstrap, Axios
 
 if the site loads slowly, try loading the [Heroku back end first](https://pure-ocean-29656.herokuapp.com/exercises)
 
-[Backend Github](https://github.com/adnjoo/mernbackend)
+[Backend Github @](https://github.com/adnjoo/mernbackend)
 
 Notes:
 
