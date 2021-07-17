@@ -86,7 +86,7 @@ export default class EditExercise extends Component {
 
             .then(res => {
                 console.log(res.data);
-                window.location = 'https://adnjoo.github.io/mernfrontend/';
+                window.location = 'https://adnjoo.github.io/exercise-tracker/';
 
             });
 
