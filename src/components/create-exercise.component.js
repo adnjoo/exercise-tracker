@@ -73,7 +73,7 @@ export default class CreateExercise extends Component {
         axios.post('https://pure-ocean-29656.herokuapp.com/exercises/add', exercise)
             .then(res => {
                 console.log(res.data)
-                window.location = '/'
+                window.location = 'https://adnjoo.github.io/mernfrontend/'
             });
     }
 
@@ -120,7 +120,7 @@ export default class CreateExercise extends Component {
                     <div className="form-group">
                         <label>Date: </label>
                         <div>
-                            <DatePicker 
+                            <DatePicker
                                 selected={this.state.date}
                                 onChange={this.onChangeDate}
                             />
