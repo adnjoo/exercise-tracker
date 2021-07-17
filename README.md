@@ -1,4 +1,4 @@
-## [Link](https://adnjoo.github.io/mernfrontend/)
+## [Link](https://adnjoo.github.io/exercise-tracker/)
 
 Stack: MERN
 
