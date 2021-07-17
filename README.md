@@ -11,3 +11,9 @@ if the site loads slowly, try loading the [Heroku back end first](https://pure-o
 Notes:
 
 implemented hash router in react to enable gh-pages SPA routing using hashes.
+
+
+build to gh-pages using the command:
+```
+npm run deploy
+```
