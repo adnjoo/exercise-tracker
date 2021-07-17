@@ -10,7 +10,7 @@ import CreateUser from "./components/create-user.component";
 
 function App() {
   return (
-    <HashRouter basename={process.env.PUBLIC_URL+'#/mernfrontend'}>
+    <HashRouter basename={process.env.PUBLIC_URL}>
       <div className="container">
         <Mynavbar />
         <br/>
