@@ -1,4 +1,8 @@
-[mern crud frontend](https://adnjoo.github.io/mernfrontend/)
+## [Link](https://adnjoo.github.io/mernfrontend/)
+
+Stack: MERN
+
+Front End - React, Bootstrap, Axios
 
 if the site loads slowly, try loading the [Heroku back end first](https://pure-ocean-29656.herokuapp.com/exercises)
 
