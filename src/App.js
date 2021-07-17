@@ -1,6 +1,6 @@
 import React from 'react';
 import "bootstrap/dist/css/bootstrap.min.css";
-import { BrowserRouter as Router, Route} from "react-router-dom";
+import { BrowserRouter as Router, Route, HashRouter} from "react-router-dom";
 
 import Mynavbar from "./components/mynavbar.component";
 import ExercisesList from "./components/exercises-list.component";
@@ -10,7 +10,7 @@ import CreateUser from "./components/create-user.component";
 
 function App() {
   return (
-    <Router>
+    <HashRouter basename={process.env.PUBLIC_URL}>
       <div className="container">
         <Mynavbar />
         <br/>
@@ -19,7 +19,7 @@ function App() {
         <Route path="/create"  component={CreateExercise} />
         <Route path="/user"  component={CreateUser} />
       </div>
-    </Router>
+    </HashRouter>
   );
 }
 
