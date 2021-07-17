@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/mernfrontend/static/js/main.582f3d07.chunk.js",
-    "main.js.map": "/mernfrontend/static/js/main.582f3d07.chunk.js.map",
+    "main.js": "/mernfrontend/static/js/main.dc417c01.chunk.js",
+    "main.js.map": "/mernfrontend/static/js/main.dc417c01.chunk.js.map",
     "runtime-main.js": "/mernfrontend/static/js/runtime-main.c141ce7e.js",
     "runtime-main.js.map": "/mernfrontend/static/js/runtime-main.c141ce7e.js.map",
     "static/css/2.b7dae473.chunk.css": "/mernfrontend/static/css/2.b7dae473.chunk.css",
-    "static/js/2.48cb0646.chunk.js": "/mernfrontend/static/js/2.48cb0646.chunk.js",
-    "static/js/2.48cb0646.chunk.js.map": "/mernfrontend/static/js/2.48cb0646.chunk.js.map",
+    "static/js/2.2e060075.chunk.js": "/mernfrontend/static/js/2.2e060075.chunk.js",
+    "static/js/2.2e060075.chunk.js.map": "/mernfrontend/static/js/2.2e060075.chunk.js.map",
     "index.html": "/mernfrontend/index.html",
     "static/css/2.b7dae473.chunk.css.map": "/mernfrontend/static/css/2.b7dae473.chunk.css.map",
-    "static/js/2.48cb0646.chunk.js.LICENSE.txt": "/mernfrontend/static/js/2.48cb0646.chunk.js.LICENSE.txt"
+    "static/js/2.2e060075.chunk.js.LICENSE.txt": "/mernfrontend/static/js/2.2e060075.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c141ce7e.js",
     "static/css/2.b7dae473.chunk.css",
-    "static/js/2.48cb0646.chunk.js",
-    "static/js/main.582f3d07.chunk.js"
+    "static/js/2.2e060075.chunk.js",
+    "static/js/main.dc417c01.chunk.js"
   ]
 }
