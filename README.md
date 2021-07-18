@@ -1,6 +1,6 @@
 ## [Link](https://adnjoo.github.io/exercise-tracker/)
 
-<img src='./scrn.png' width='250px'>
+<a href='https://adnjoo.github.io/exercise-tracker/'><img src='./scrn.png' width='250px'></a>
 
 Stack: MERN
 
