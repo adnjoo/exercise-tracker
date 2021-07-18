@@ -1,5 +1,7 @@
 ## [Link](https://adnjoo.github.io/exercise-tracker/)
 
+<img src='./scrn.png' width='250px'>
+
 Stack: MERN
 
 Front End - React, Bootstrap, Axios
