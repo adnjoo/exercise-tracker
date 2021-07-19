@@ -7,7 +7,7 @@ export default class Mynavbar extends Component {
     render() {
         return (
            <Navbar bg='light' expand='lg'>
-               <Navbar.Brand href={process.env.PUBLIC_URL+'/'}>ExcerTracker</Navbar.Brand>
+               <Navbar.Brand href={process.env.PUBLIC_URL+'/'}>ExerTracker</Navbar.Brand>
                <Navbar.Toggle aria-controls="basic-navbar-nav" />
                <Navbar.Collapse id="basic-navbar-nav">
                 <Nav.Link href={process.env.PUBLIC_URL+"/"}>Exercises</Nav.Link>
