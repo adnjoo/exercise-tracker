@@ -2,7 +2,7 @@
 
 ## [Link](https://adnjoo.github.io/exercise-tracker/)
 
-<a href='https://adnjoo.github.io/exercise-tracker/'><img src='scrn.png' width='250px'></a>
+<a href='https://adnjoo.github.io/exercise-tracker/'><img src='scrn1.png' width='250px'></a>
 
 Stack: MERN
 
